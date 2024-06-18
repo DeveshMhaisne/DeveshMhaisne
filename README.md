@@ -9,7 +9,7 @@
 
 
 
-
+-  [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)](https://github.com/NehaW4)
 
 - 🌱 I’m currently learning **MERN,DSA**
 
