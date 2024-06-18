@@ -9,7 +9,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=DeveshMhaisne)
+- ![](https://komarev.com/ghpvc/?username=DeveshMhaisne)
 
 - 🌱 I’m currently learning **MERN,DSA**
 
