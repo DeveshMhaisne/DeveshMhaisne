@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I have good sense of humour**
 
-- - ![](https://komarev.com/ghpvc/?username=DeveshMhaisne)
+- ![](https://komarev.com/ghpvc/?username=DeveshMhaisne)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
